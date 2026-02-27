@@ -1,0 +1,7 @@
+{
+  "name": "i9Manutenção - Gestão de Refrigeração",
+  "description": "Sistema completo para gestão de manutenção em refrigeração comercial, incluindo CRM, laudos técnicos e calculadora de carga térmica.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
