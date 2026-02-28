@@ -307,7 +307,8 @@ export default function Reports() {
                 <Plus className="text-slate-500 group-hover:text-brand-blue" />
               </div>
               <p className="text-slate-500 text-xs md:text-sm text-center">Clique para upload ou arraste as fotos</p>
-              <p className="text-slate-600 text-[10px] md:text-xs mt-1">Máximo 4 fotos (JPG, PNG)</p>
+              <p className="text-slate-600 text-[10px] md:text-xs mt-1">Máximo 17 fotos (JPG, PNG)</p>
+              capture="environment"
             </div>
           </section>
         </div>
